@@ -13,32 +13,36 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| The University of Queensland | Subject tutor, BIOC3005 (Molecular Systems Biology) | 2018, 2020 |
+| The University of Queensland | Laboratory Demonstrator, BIOC3005 (Molecular Systems Biology) | 2018, 2020 |
 | Nucleus Network, Herston QLD | Laboratory Technician | 2019 - 2020 |
 | BIG W, Chermside QLD | Customer Service Associate | 2014 - 2019 |
 | All Hallows' School, Brisbane QLD | Library Assistant | 2013 - 2014 |
 
 ## Skills
 
-- Intermediate skills in:
+- Science illustration
+- Using metabolomics-specific software, including:
+  - TopSpin, an NMR processing software
+  - SIMCA, a statistics software
+  - Chenomx, a metabolite-identification software
+- Beginner skills in:
+  - MATLAB
   - Python
-  - R
   - Linux/Bash
-  - SQL
 - Communication across different audiences
-- Writing a Github Page Resume then teaching it
 
 ## Publications
 
-**Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
-https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
+**A2. Clinical implications of convergent procoagulant toxicity and differential antivenom efficacy in Australian elapid snake venoms**
+Zdenek, C. N., op den Brouw, B., Dashevsky, D., **Gloria, A.**, Youngman, N. J., Watson, E., Green, P., Hay, C., Dunstan, N., Allen, L., Fry, B. G.  2019. *Toxicology Letters* 316, 171-182. [doi.org/10.1016/j.toxlet.2019.08.014](https://doi.org/10.1016/j.toxlet.2019.08.014)
+
+**A1. Differential procoagulant effects of saw-scaled viper (Serpentes: Viperidae: *Echis*) snake venoms on human plasma and the narrow taxonomic ranges of antivenom efficacies**
+Rogalski, A., Soerensen, C., op den Brouw, B., Lister, C., Dashevsky, D., Arbuckle, K., **Gloria, A.**, Zdenek, C. N., Casewell, N. R., Gutiérrez, J. M., Wüster, W., Ali, S. A., Masci, P., Rowley, P., Frank, N., Fry, B. G.   2017. *Toxicology Letters* 280, 159-170. [doi.org/10.1016/j.toxlet.2017.08.020](https://doi.org/10.1016/j.toxlet.2017.08.020)
+
+## Conference Abstracts
 
 
-**Invited Editorial for Artificial Organs Journal**
-OpenHeart Project – An Open-Source Research Community in the Field of Mechanical Circulatory Support
-Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
-
+## Published Scientific Illustrations
 
 
 ## Projects
