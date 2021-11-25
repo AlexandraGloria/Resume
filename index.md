@@ -7,17 +7,16 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Doctor of Philosophy | The University of Queensland | 2020 - present
+| Bachelor of Science (Honours), majoring in Biochemistry | The University of Queensland | 2018 - 2019 |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+| The University of Queensland, Brisbane QLD | Subject tutor, BIOC3005: Molecular Systems Biology | 2018, 2020 |
+| Nucleus Network, Herston QLD | Laboratory Technician | 2019 - 2020 |
+| BIG W, Chermside QLD | Customer Service Associate | 2014 - 2019 |
+| All Hallows' School, Brisbane QLD | Library Assistant | 2013 - 2014 |
 
 ## Skills
 
