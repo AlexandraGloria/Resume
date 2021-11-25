@@ -8,7 +8,7 @@
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Doctor of Philosophy | The University of Queensland | 2020 - present
-| Bachelor of Science (Honours), majoring in Biochemistry | The University of Queensland | 2018 - 2019 |
+| Bachelor of Science (Honours) in Biochemistry | The University of Queensland | 2018 - 2019 |
 
 ## Employment
 
