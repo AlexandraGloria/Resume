@@ -13,7 +13,7 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| The University of Queensland, Brisbane QLD | Subject tutor, BIOC3005: Molecular Systems Biology | 2018, 2020 |
+| The University of Queensland | Subject tutor, BIOC3005 (Molecular Systems Biology) | 2018, 2020 |
 | Nucleus Network, Herston QLD | Laboratory Technician | 2019 - 2020 |
 | BIG W, Chermside QLD | Customer Service Associate | 2014 - 2019 |
 | All Hallows' School, Brisbane QLD | Library Assistant | 2013 - 2014 |
